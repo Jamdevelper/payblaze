@@ -1,0 +1,613 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html id="ctl00_Html1" xmlns="http://www.w3.org/1999/xhtml" __expr-val-dir="ltr" dir="ltr" lang="en-us"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=8"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="copyright" content="DePaul University"><meta name="Keywords" content="admission, aid, admission information, financial aid, apply to DePaul, tuition, aid, scholarships, undergraduate, graduate, college application, university application, degree,DePaul University, Chicago University, Catholic University, Blue Demons"><meta name="Description" content="DePaul University provides a world-class, affordable education for all types of students. We believe the educational experience here enables students to enjoy the long-term benefits of investing in themselves - and in their future."><link rel="canonical" href="http://www.depaul.edu/admission-and-aid/Pages/default.aspx"><meta http-equiv="Expires" content="0"><title>Admission and Aid  | DePaul University</title><link rel="shortcut icon" href="http://www.depaul.edu/_layouts/images/favicon.ico" type="image/vnd.microsoft.icon"><link rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/controls.css">
+<link rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/Menu.css">
+<link rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/page-layouts-21.css">
+<link id="CssRegistrationRCA" rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/rca.css">
+<link rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/corev4.css">
+<link id="CssRegistration5" rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/reset.css">
+<link id="CssRegistration4" rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/960-24col.css">
+<link id="CssRegistration3" rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/global-update-20120116.css">
+<link id="CssRegistration2" rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/site-collection.css">
+<link id="CssRegistration1" rel="stylesheet" type="text/css" href="Admission%20and%20Aid%20_%20DePaul%20University_files/fonts-droid.css">
+	
+	
+	<script src="Admission%20and%20Aid%20_%20DePaul%20University_files/ga.js" async="" type="text/javascript"></script><script type="text/javascript">
+	    var _fV4UI = true;
+	</script>
+	
+	<!-- load SharePoint javascript -->
+		<script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/1033/init.js?rev=lEi61hsCxcBAfvfQNZA%2FsQ%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/ScriptResource.axd?d=ySlWOc44fKKhhJeIa8ecrYg7bex1kAmTGtoxCuZqjHSu_St-dtNHX3aQh8uqnOWu_j6gIfBwuOaSuL5so5wCUpzkPvyQD-4a_Pb2eVNVMHSmjvqrXb3VyC-YZ4Bn_SCK6mYqiM_KU_tBnwuIGAO2heHKE681&amp;t=2e2045e2"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/ScriptResource.axd?d=SKF3gE7xFJV8fNhaC52Sa2iPRSqFDzsHQWdtwexeE9FuaduoL-kbVYbOkcFUPevi1V1K90Db-NmduFR8hqBI7GlMqVECBwcIIcM7lKpEXDTulDfRnqPxAwcw_xSroVYoeH0UD9V6sGnqEV8OXQKB2ZXoH1COW5qqOBlacOTB1TbxWWHV0&amp;t=2e2045e2"></' + 'script>');
+// ]]>
+</script><script type="text/javascript" src="Admission%20and%20Aid%20_%20DePaul%20University_files/init.js"></script><script type="text/javascript" src="Admission%20and%20Aid%20_%20DePaul%20University_files/ScriptResource.js"></script><script type="text/javascript" src="Admission%20and%20Aid%20_%20DePaul%20University_files/blank.js"></script><script type="text/javascript" src="Admission%20and%20Aid%20_%20DePaul%20University_files/ScriptResource_002.js"></script>
+
+ 
+ 	<style type="text/css">
+	 		/*Scroll fix (DEPAUL)*/
+ 		body #s4-workspace.depaul-workspace{
+			overflow-y:auto;}
+ 		
+		/* fix scrolling on list pages 
+		#s4-bodyContainer {position: relative;}*/
+
+		/* hide body scrolling (SharePoint will handle) 
+		body {height:100%;overflow:hidden;width:100%;}*/
+				
+		/* popout breadcrumb menu needs background color for firefox */
+		.s4-breadcrumb-menu {background:#F2F2F2;}
+
+		/* if you want to change the left nav width, change this and the margin-left in .s4-ca */
+		body #s4-leftpanel {/* width:155px; */}
+		
+		/* body area normally has a white background 
+		.s4-ca {background:transparent none repeat scroll 0 0;/* margin-left:155px; */}*/
+	</style>
+ 
+	<script src="Admission%20and%20Aid%20_%20DePaul%20University_files/jquery-1.js" type="text/javascript"></script>
+	<!-- The following link is for the top navigation bar formatting -->
+
+<!-- BEGIN DYNAMIC NAVIGATION STYLING -->
+
+<style type="text/css">
+	/* hide the menu by default if javascript is enabled */
+	.jsEnabled #left-nav {display:none;}
+	/* stylize the selected parent node of the left nav menu */
+	#left-nav ul li ul li a.selected-parent {font-weight:bold;}
+</style>
+
+<!-- END DYNAMIC NAVIGATION STYLING -->
+
+	
+   	
+
+	<!-- javascript to override the active-x message in ie 
+		// See http://blog.drisgill.com/2010/02/removing-name-activex-control-warning.html for more info
+		// Remove if the IM presence icons are needed in SharePoint
+	-->
+	<script type="text/javascript">
+	    function ProcessImn() { }
+	    function ProcessImnMarkers() { }	
+	</script>
+	
+		
+			
+			
+			
+	
+
+	
+	<script type="text/javascript">
+
+		// Used for Chrome 29.0.1547.76 m  Fix unitl they can properly handle a 304 content_type header on a cached 304 css 
+		function reloadStylesheets() {
+		    var queryString = '?reload=' + new Date().getTime();
+		    $('link[rel="stylesheet"]').each(function () {
+		        this.href = this.href.replace(/\?.*|$/, queryString);
+		    });
+		}
+		$.browser.chrome = /chrom(e|ium)/.test(navigator.userAgent.toLowerCase());
+    	
+    	//Fix call chrome only fix    	
+    	if($.browser.chrome){
+			reloadStylesheets() ;
+		}
+
+	    $(document).ready(function () {
+	    
+	        //FIX login link;
+		    $('a.editor-login').each(function () {
+		        if(window.location.protocol!= "https"){
+		        	this.href = "https://" + window.location.hostname + '/_layouts/authenticate.aspx?source=' + encodeURIComponent("https:" + window.location.href.substring(window.location.protocol.length));
+		        }else{
+		        this.href = '/_layouts/authenticate.aspx?source=' + encodeURIComponent(window.location.href);
+		        }    
+		    });
+
+	    	//LEFT NAV STYLING
+	    	// add "selected-parent" class
+	    	//   to the parent li and a elements of the selected node 
+	    	//   at least one level below the root
+	    	$('#left-nav ul > li > ul > li li.selected').closest('ul')
+	    		.siblings('a').addClass('selected-parent')
+	    		.parent().addClass('selected-parent');
+	    	// hide branches
+	    	//   that do not contain the selected node
+	    	//   except for the immediate child branch of the selected node
+	    	$('#left-nav ul:not(:has(li.selected))').css('display','none');
+		   	$('#left-nav li.selected > ul').css('display','block');
+	    	// show (animate) the menu
+	    	//   which is hidden by default
+	    	//   if javascript is enabled
+	        $('#left-nav').show();
+	    	
+			//TOP NAV STYLING
+	        $('#site-navigation').columns({
+	            columnSelector: '.menu ul.root>li.static'
+	        });
+
+	        //need to delete any border on last li
+	        $('#site-navigation .root>li').last().css("border-right-width", 0);
+
+	        //whitehouse.gov navigation formatting, columns within navigation drop downs
+	        //commented out to show the nav options to emm.  also added style float: none; to #site-navigation li
+	        //$('#site-navigation').formatNav({});
+            $('#site-navigation').formatNav({expandLeft: false});
+			
+			/* superfish formatting */
+	        $('.menu-horizontal ul').superfish({
+	            delay: 500,
+	            speed: 200,
+	            autoArrows: false,
+	            dropShadows: false
+	        });
+			
+	        /*handle shortcuts click*/
+	        $('#shortcuts').click(function () {
+	            fillDrawer();
+	            $('#site-top-drawer').slideToggle('slow');
+	            //need to handle piping issues
+	            fixPipes();
+	        });
+
+            /* puts keywords into meta info on edit mode */
+			if ($('.ms-formfieldvaluecontainer').length != 0) { //the above if statement verifies that the page is in edit mode
+				var keyText = "Keywords applied to this page (may contain page keys that were saved last time this page was edited): <br/>";
+				keyText += $('meta[name=Keywords]').attr("content");
+				$('#meta-key-list').html(keyText);
+			}
+
+
+	        /* web part editor moved up the page */
+	        if ($('table.ms-ToolPaneOuter').length != 0) {
+	            $('table.ms-ToolPaneOuter').css('position', 'absolute');
+	            $('table.ms-ToolPaneOuter').css('top', $('table.ms-WPSelected').position().top);
+	            var webpartLeft = $('table.ms-WPSelected').position().left;
+	            var webpartWidth = $('table.ms-WPSelected').outerWidth();
+	            $('table.ms-ToolPaneOuter').css('left', webpartLeft + webpartWidth);
+	        }
+	        
+			/*sticky alert stuff*/
+			if($('#dpu-alert').length>0){
+				if($('#ctl00_SPSecurityTrimmedControl1').length>0){
+					$('#dpu-alert').css('position', 'relative');
+					$('#dpualert-ph').append($('#dpu-alert'));	 		        	       		
+				}else{	        		
+					var intHeight = $('#dpu-alert').innerHeight();
+					$('#s4-bodyContainer').css('padding-top',intHeight);
+				}
+			}
+			
+	    });
+		
+
+	</script>
+	
+                <script src="Admission%20and%20Aid%20_%20DePaul%20University_files/depaul_standard.js" type="text/javascript"></script>
+	<title>
+
+</title><style type="text/css">
+	.ctl00_PlaceHolderRightContent_rightZone_0 { border-color:Black;border-width:1px;border-style:Solid; }
+	.ctl00_wpz_0 { border-color:Black;border-width:1px;border-style:Solid; }
+
+</style><script src="Admission%20and%20Aid%20_%20DePaul%20University_files/core.js" type="text/javascript"></script></head> 
+
+<body class=" jsEnabled" onload="javascript:_spBodyOnLoadWrapper();">
+<!-- add the "jsEnabled" class to the body element as soon as it is available in the DOM -->
+<script type="text/javascript">document.body.className += ' jsEnabled';</script>
+
+<form name="aspnetForm" method="post" action="/admission-and-aid/Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" type="hidden">
+<input name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" type="hidden">
+<input name="MSOTlPn_View" id="MSOTlPn_View" value="0" type="hidden">
+<input name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" type="hidden">
+<input name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" type="hidden">
+<input name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" type="hidden">
+<input name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" type="hidden">
+<input name="__EVENTTARGET" id="__EVENTTARGET" value="" type="hidden">
+<input name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" type="hidden">
+<input name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x23DCF24F1A3E61F24F1FAA0DF7661D6E62828110C1338543013C72DA833D76637B12B04DE8A1DFDD5C34B5C0B4A61624C77B5C4FC01BD4A0B9E8EAEFA1EC7495,16 Feb 2015 17:38:46 -0000" type="hidden">
+<input name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" type="hidden">
+<input name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" type="hidden">
+<input name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" type="hidden">
+<input name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" type="hidden">
+<input name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" type="hidden">
+<input name="_wpSelected" id="_wpSelected" value="" type="hidden">
+<input name="_wzSelected" id="_wzSelected" value="" type="hidden">
+<input name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" type="hidden">
+<input name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" type="hidden">
+<input name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" type="hidden">
+<input name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWAgIlD2QWAgIHDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTE0LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIDD2QWCgIDD2QWBgUmZ19jZDQ4ZDZjNF8wMTEyXzQyYzZfODhiN180MTRiM2E0NjU0MjEPDxYCHgpDaHJvbWVUeXBlAgJkZAUmZ182MDI3NzI3M180YTgzXzQ5OTNfODBiYl8xOTllMzZjZWUxOTYPDxYCHwECAmRkBSZnX2RlMDVkYjE1Xzg5MDhfNDM1Nl85YmM4XzU5OTBlNzMzNjY0Ng8PFgIfAQICZGQCBw9kFgICCw9kFgRmD2QWAgIBDxYCHgdWaXNpYmxlaBYCZg9kFgQCAg9kFgYCAQ8WAh8CaGQCAw8WCB4TQ2xpZW50T25DbGlja1NjcmlwdAWAAWphdmFTY3JpcHQ6Q29yZUludm9rZSgnVGFrZU9mZmxpbmVUb0NsaWVudFJlYWwnLDEsIDUzLCAnaHR0cDpcdTAwMmZcdTAwMmZ3d3cuZGVwYXVsLmVkdVx1MDAyZmFkbWlzc2lvbi1hbmQtYWlkJywgLTEsIC0xLCAnJywgJycpHhhDbGllbnRPbkNsaWNrTmF2aWdhdGVVcmxkHihDbGllbnRPbkNsaWNrU2NyaXB0Q29udGFpbmluZ1ByZWZpeGVkVXJsZB4MSGlkZGVuU2NyaXB0BSJUYWtlT2ZmbGluZURpc2FibGVkKDEsIDUzLCAtMSwgLTEpZAIFDxYCHwJoZAIDDw8WCh4JQWNjZXNzS2V5BQEvHg9BcnJvd0ltYWdlV2lkdGgCBR4QQXJyb3dJbWFnZUhlaWdodAIDHhFBcnJvd0ltYWdlT2Zmc2V0WGYeEUFycm93SW1hZ2VPZmZzZXRZAusDZGQCAQ9kFgQCBQ9kFgICAQ8QFgIfAmhkFCsBAGQCBw9kFgJmD2QWAmYPFCsAA2RkZGQCFQ9kFgICBQ8PFgIfAmhkFgICAw9kFgJmD2QWAgIDD2QWAgIFDw8WBB4GSGVpZ2h0GwAAAAAAAHlAAQAAAB4EXyFTQgKAAWQWAgIBDzwrAAkBAA8WBB4NUGF0aFNlcGFyYXRvcgQIHg1OZXZlckV4cGFuZGVkZ2RkAh8PZBYCAgIPZBYGAgMPZBYCAgEPFgIfAAsrBAFkAgcPFgIfAAsrBAFkAgkPFgIfAAsrBAFkAikPZBYCAgMPZBYCAgEPFgIfAAsrBAFkGAIFJmN0bDAwJFBsYWNlSG9sZGVyTGVmdE5hdkJhciRDdXJyZW50TmF2Dw9kBQ9BZG1pc3Npb24gJiBBaWRkBRljdGwwMCRUb3BOYXZpZ2F0aW9uTWVudVY0Dw9kBRNBZG1pc3Npb24gJmFtcDsgQWlkZLGBD3jqQkz9zoznnx9HjjuyuL/5" type="hidden">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="Admission%20and%20Aid%20_%20DePaul%20University_files/WebResource.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#2';
+var g_wsaListTemplateId = 850;
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fadmission-and-aid", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4,pageListId:"{484033eb-84ee-49c1-b4b3-d67a4edd87da}",pageItemId:6, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};//]]>
+</script>
+<script type="text/javascript">
+<!--
+var L_Menu_BaseUrl="/admission-and-aid";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="";
+//-->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/admission-and-aid"};//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fadmission-and-aid\u002fPages\u002fdefault.aspx");
+
+}
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var _spWebPartComponents = new Object();//]]>
+</script>
+<script type="text/javascript">
+<!--
+//-->
+</script>
+<script src="Admission%20and%20Aid%20_%20DePaul%20University_files/blank.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002fadmission-and-aid', 23040000);if (typeof(vwpcm) != 'undefined') {vwpcm.SetWpcmVal();};return _spFormOnSubmitWrapper();
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" type="hidden">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tctl00$panelZone'], [], [], 90);
+//]]>
+</script>
+
+
+
+
+
+
+
+
+<div id="dpualert-ph"></div>
+
+
+
+<!-- =====  Start Scrolling Body Area ============================================================ -->
+
+<!-- these two div id's are used to setup the main scrolling page area, they should stay if you are sticking the ribbon to the top -->
+
+<div id="s4-workspace" class="s4-nosetwidth depaul-workspace">  <!-- NOTE: s4-nosetwidth is used when you are setting a fixed page width in css, remove for 100% -->
+	<!-- page editing status bar -->
+				<div class="s4-notdlg">
+					<div id="s4-statusbarcontainer" class="s4-notdlg">
+						<div style="display: none;" id="pageStatusBar" class="s4-status-s1"></div>
+					</div>
+				</div>
+	
+	<div id="s4-bodyContainer">
+		<div id="site-top-drawer" style="display:none;">
+			<div id="sliding-drawer" class="container_24">
+			</div> 
+		</div> 
+		<div id="site-header">
+			<!-- link back to homepage, can place a logo image here for link back to home, or evan use CssClass to style it with CSS -->
+			<div id="head-container" class="container_24">
+						
+				<!-- search box loads from delegate, style with CSS -->				
+				<div id="site-search" class="s4-notdlg">
+					
+						<input id="search_input" name="search_input" onkeypress="javascript:DePaul.SearchBox.KeyPress(event);" type="text"><input name="search_submit" onclick="javascript:DePaul.SearchBox.Search();" type="button">
+					
+				</div>
+				<div id="shortcuts">
+					DePaul Shortcuts				
+				</div>
+				
+				<div id="logo" class="s4-notdlg"><!-- NOTE: any time you see s4-notdlg, this element will be hidden from SharePoint dialog windows  -->
+					<a id="ctl00_SPLinkButton1" title="DePaul University Home Page" href="http://www.depaul.edu/">
+					<img src="Admission%20and%20Aid%20_%20DePaul%20University_files/logo.png" alt="DePaul Logo" style="border-width:0px;">
+					</a>
+				</div>
+				
+				<div id="site-logo">
+				<!--
+					<a href="/">
+						<img alt="Site Logo" src="/Style%20Library/Images/site-logo.png" />
+					</a>
+					-->
+				</div>
+		
+				<!-- top navigation area -->
+				<div id="site-navigation" class="dpu-globalNav s4-notdlg">
+					<!-- top navigation publishing data source -->
+					
+					<!-- top navigation menu (set to use the new Simple Rendering, disable title encoding) -->
+					<div id="zz1_TopNavigationMenuV4" class="s4-tn">
+	<div class="menu horizontal menu-horizontal">
+		<ul class="root static sf-js-enabled">
+			<li style="float: left; width: 158px;" class="static dynamic-children"><a style="width: 158px;" class="static dynamic-children menu-item" href="http://www.depaul.edu/about/Pages/default.aspx" accesskey="1"><span class="additional-background"><span class="menu-item-text">About</span></span></a><ul style="display: none; visibility: hidden;" class="dynamic col-2 sf-js-enabled"><ul class="sf-js-enabled"><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/about/Pages/rankings.aspx"><span class="additional-background"><span class="menu-item-text">Rankings</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/about/Pages/key-facts.aspx"><span class="additional-background"><span class="menu-item-text">Key Facts</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://resources.depaul.edu/distinctions/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Distinctions</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/about/campuses/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Campuses</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/about/visit-depaul/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Visit DePaul</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://events.depaul.edu/"><span class="additional-background"><span class="menu-item-text">Events</span></span></a></li></ul><ul class="nav-end sf-js-enabled"><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/about/Pages/chicago.aspx"><span class="additional-background"><span class="menu-item-text">Chicago</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://president.depaul.edu/"><span class="additional-background"><span class="menu-item-text">President</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/about/administration/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Administration</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/about/Pages/accreditation.aspx"><span class="additional-background"><span class="menu-item-text">Accreditation</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/about/history-and-timeline/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">History and Timeline</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://mission.depaul.edu/AboutUs/Pages/MissionStatement.aspx"><span class="additional-background"><span class="menu-item-text">Mission</span></span></a></li></ul></ul></li><li style="float: left; width: 158px;" class="static dynamic-children"><a style="width: 158px;" class="static dynamic-children menu-item" href="http://www.depaul.edu/academics/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Academics</span></span></a><ul style="display: none; visibility: hidden;" class="dynamic col-2 sf-js-enabled"><ul class="sf-js-enabled"><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/academics/undergraduate/majors/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Undergraduate</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/academics/graduate/programs/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Graduate</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://resources.depaul.edu/corporate/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Corporate</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" title="Online Learning" href="http://www.depaul.edu/academics/online-learning/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Online Learning</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/academics/Pages/colleges-and-schools.aspx"><span class="additional-background"><span class="menu-item-text">Colleges &amp; Schools</span></span></a></li></ul><ul class="nav-end sf-js-enabled"><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/academics/research/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Research</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://steans.depaul.edu/"><span class="additional-background"><span class="menu-item-text">Service Learning</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/academics/Pages/success-after-depaul.aspx"><span class="additional-background"><span class="menu-item-text">Success After DePaul</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.learning.depaul.edu/"><span class="additional-background"><span class="menu-item-text">Continuing Education</span></span></a></li></ul></ul></li><li style="float: left; width: 158px;" class="static dynamic-children selected"><a style="width: 158px;" class="static dynamic-children selected menu-item" href="http://www.depaul.edu/admission-and-aid/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Admission &amp; Aid</span><span class="ms-hidden">Currently selected</span></span></a><ul style="display: none; visibility: hidden;" class="dynamic col-2 sf-js-enabled"><ul class="sf-js-enabled"><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Types of Admission</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Transfer Center</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/admission-and-aid/Pages/adult-enrollment-center.aspx"><span class="additional-background"><span class="menu-item-text">Adult Enrollment Center</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/admission-and-aid/tuition/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Tuition</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/admission-and-aid/Pages/scholarships.aspx"><span class="additional-background"><span class="menu-item-text">Scholarships</span></span></a></li></ul><ul class="nav-end sf-js-enabled"><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Financial Aid</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/admission-and-aid/test-credit-and-placement/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Test Credit and Placement</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/Pages/check-your-app-status.aspx"><span class="additional-background"><span class="menu-item-text">Check Application Status</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/admission-and-aid/admitted/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Admitted Students</span></span></a></li></ul></ul></li><li style="float: left; width: 158px;" class="static dynamic-children"><a style="width: 158px;" class="static dynamic-children menu-item" href="http://www.depaul.edu/student-life/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Student Life</span></span></a><ul style="display: none; visibility: hidden;" class="dynamic col-2 sf-js-enabled"><ul class="sf-js-enabled"><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/student-life/life-at-depaul/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Life@DePaul</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/student-life/Pages/student-organizations.aspx"><span class="additional-background"><span class="menu-item-text">Student Organizations</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaul.edu/campustour/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Online Campus Tour</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://www.depaulbluedemons.com/"><span class="additional-background"><span class="menu-item-text">Athletics</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://depaul.bncollege.com/"><span class="additional-background"><span class="menu-item-text">Bookstore</span></span></a></li></ul><ul class="nav-end sf-js-enabled"><li class="dynamic"><a class="dynamic menu-item" href="https://resources.depaul.edu/deblogs/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">DeBlogs</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://careercenter.depaul.edu/"><span class="additional-background"><span class="menu-item-text">Career Center</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://museums.depaul.edu/artwebsite/"><span class="additional-background"><span class="menu-item-text">Art Museum</span></span></a></li><li class="dynamic"><a class="dynamic menu-item" href="http://studentaffairs.depaul.edu/"><span class="additional-background"><span class="menu-item-text">Student Affairs</span></span></a></li></ul></ul></li><li style="float: left; width: 158px;" class="static"><a style="width: 158px;" class="static menu-item" href="http://alumni.depaul.edu/"><span class="additional-background"><span class="menu-item-text">Alumni &amp; Friends</span></span></a></li><li style="float: left; width: 160px; border-right-width: 0px;" class="static"><a style="width: 160px;" class="static menu-item" href="http://events.depaul.edu/"><span class="additional-background"><span class="menu-item-text">Campus Events</span></span></a></li>
+		</ul>
+	</div>
+</div>	
+				</div>
+				
+				
+			</div>	
+			
+		</div>
+		<div id="site-body" class="container_24">
+			<div id="body-container" class="container_24">			
+			
+				<!-- styles needed to have left nav to the left of the main area -->
+				
+						<!-- The quick launch bar / left navigation -->
+						
+									<div id="page-left" class="grid_5">
+								<div id="s4-leftpanel" class="s4-notdlg">
+									<div style="display: block;" id="left-nav">
+
+										
+									
+										<div id="zz2_CurrentNav">
+	<div class="menu vertical menu-vertical">
+		<ul class="root static">
+			<li class="static selected"><a class="static selected menu-item" href="http://www.depaul.edu/admission-and-aid/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Admission &amp; Aid</span><span class="ms-hidden">Currently selected</span></span></a><ul style="display: block;" class="static">
+				<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Types of Admission</span></span></a><ul style="display: none;" class="static">
+					<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/freshman-student/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Freshman Student</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/freshman-student/Pages/admission-process.aspx"><span class="additional-background"><span class="menu-item-text">Admission Process</span></span></a></li>
+					</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/transfer-student.aspx"><span class="additional-background"><span class="menu-item-text">Transfer Student</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/adult-transfer-student.aspx"><span class="additional-background"><span class="menu-item-text">Adult Undergraduate Student</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Graduate Student</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/kellstadt.aspx"><span class="additional-background"><span class="menu-item-text">Kellstadt Graduate School of Business</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/communication.aspx"><span class="additional-background"><span class="menu-item-text">Graduate School of Communication</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/computer-science.aspx"><span class="additional-background"><span class="menu-item-text">Graduate CDM</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/law.aspx"><span class="additional-background"><span class="menu-item-text">College of Law</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/las.aspx"><span class="additional-background"><span class="menu-item-text">Graduate Liberal Arts and Social Sciences</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/public-service.aspx"><span class="additional-background"><span class="menu-item-text">Graduate School of Public Service</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/education.aspx"><span class="additional-background"><span class="menu-item-text">Graduate College of Education</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/music.aspx"><span class="additional-background"><span class="menu-item-text">Graduate School of Music</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/science-and-health.aspx"><span class="additional-background"><span class="menu-item-text">Graduate College of Science and Health</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/psychology.aspx"><span class="additional-background"><span class="menu-item-text">Graduate Psychology</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/snl.aspx"><span class="additional-background"><span class="menu-item-text">Graduate School for New Learning</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/theatre.aspx"><span class="additional-background"><span class="menu-item-text">Graduate Theatre School</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/admission-offices.aspx"><span class="additional-background"><span class="menu-item-text">Graduate Admissions Offices</span></span></a></li>
+					</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/visiting-summer-student.aspx"><span class="additional-background"><span class="menu-item-text">Visiting Summer Student</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/student-at-large.aspx"><span class="additional-background"><span class="menu-item-text">Student at Large</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/international-student.aspx"><span class="additional-background"><span class="menu-item-text">International Student</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/online-student.aspx"><span class="additional-background"><span class="menu-item-text">Online Student</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/veteran-student.aspx"><span class="additional-background"><span class="menu-item-text">Veteran Student</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/non-degree-student.aspx"><span class="additional-background"><span class="menu-item-text">Non-Degree Student</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/returning-student.aspx"><span class="additional-background"><span class="menu-item-text">Returning Student</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/continuing-education-student.aspx"><span class="additional-background"><span class="menu-item-text">Continuing Education Student</span></span></a></li>
+				</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Transfer Center</span></span></a><ul style="display: none;" class="static">
+					<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/getting-started/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Getting Started</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/transferring-your-courses/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Transferring Your Courses</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/transferring-your-courses/Pages/course-lists.aspx"><span class="additional-background"><span class="menu-item-text">Course Lists</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/transferring-your-courses/Pages/recommended-courses.aspx"><span class="additional-background"><span class="menu-item-text">Recommended Courses</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/transferring-your-courses/Pages/transfer-guides.aspx"><span class="additional-background"><span class="menu-item-text">Transfer Guides</span></span></a></li><li class="static"><a class="static menu-item" href="https://www.transferology.com/school/depaul"><span class="additional-background"><span class="menu-item-text">Transferology</span></span></a></li>
+					</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/Pages/ata.aspx"><span class="additional-background"><span class="menu-item-text">Accelerated Transfer Admission</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/dapp/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">DAPP</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/for-advisors/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">For Advisors</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/for-advisors/Pages/iai.aspx"><span class="additional-background"><span class="menu-item-text">Illinois Articulation Initiative</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/transfer-center/for-advisors/Pages/cc.aspx"><span class="additional-background"><span class="menu-item-text">Community College Information</span></span></a></li>
+					</ul></li>
+				</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/Pages/adult-enrollment-center.aspx"><span class="additional-background"><span class="menu-item-text">Adult Enrollment Center</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/tuition/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Tuition</span></span></a><ul style="display: none;" class="static">
+					<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/tuition/Pages/room-board.aspx"><span class="additional-background"><span class="menu-item-text">Room and Board</span></span></a></li>
+				</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/Pages/scholarships.aspx"><span class="additional-background"><span class="menu-item-text">Scholarships</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Financial Aid</span></span></a><ul style="display: none;" class="static">
+					<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/forms-guides-and-resources/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Forms, Guides and Resources</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/forms-guides-and-resources/Pages/forms.aspx"><span class="additional-background"><span class="menu-item-text">Forms</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/forms-guides-and-resources/Pages/guides.aspx"><span class="additional-background"><span class="menu-item-text">Guides</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/forms-guides-and-resources/Pages/resources.aspx"><span class="additional-background"><span class="menu-item-text">Resources</span></span></a></li>
+					</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/financial-aid-basics/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Financial Aid Basics</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/financial-aid-basics/Pages/applying-for-aid.aspx"><span class="additional-background"><span class="menu-item-text">Applying for Aid</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/financial-aid-basics/Pages/application-review-process.aspx"><span class="additional-background"><span class="menu-item-text">Application Review Process</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/financial-aid-basics/Pages/disbursements.aspx"><span class="additional-background"><span class="menu-item-text">Disbursements/MAP Proration</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/financial-aid-basics/Pages/graduating-students.aspx"><span class="additional-background"><span class="menu-item-text">Graduating Students</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/financial-aid-basics/Pages/important-dates.aspx"><span class="additional-background"><span class="menu-item-text">Important Dates</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/financial-aid-basics/Pages/notifications.aspx"><span class="additional-background"><span class="menu-item-text">Notifications</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/financial-aid-basics/Pages/privacy-and-ferpa.aspx"><span class="additional-background"><span class="menu-item-text">Privacy &amp; FERPA</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/financial-aid-basics/Pages/using-campus-connection.aspx"><span class="additional-background"><span class="menu-item-text">Using Campus Connect</span></span></a></li>
+					</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Types of Aid</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/assistantships.aspx"><span class="additional-background"><span class="menu-item-text">Assistantships</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/dod-tuition-assistance.aspx"><span class="additional-background"><span class="menu-item-text">Department of Defense Tuition Assistance</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/federal-loans.aspx"><span class="additional-background"><span class="menu-item-text">Federal Loans</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/federal-work-study.aspx"><span class="additional-background"><span class="menu-item-text">Federal Work Study</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/grants.aspx"><span class="additional-background"><span class="menu-item-text">Grants</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/private-loans.aspx"><span class="additional-background"><span class="menu-item-text">Private Loans</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/Pages/scholarships.aspx"><span class="additional-background"><span class="menu-item-text">Scholarships</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/special-programs.aspx"><span class="additional-background"><span class="menu-item-text">Special Programs</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/study-abroad.aspx"><span class="additional-background"><span class="menu-item-text">Study Abroad</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/types-of-aid/Pages/veteran%27s-educational-benefits.aspx"><span class="additional-background"><span class="menu-item-text">Veteran Educational Benefits</span></span></a></li>
+					</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/managing-costs/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Managing Costs</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/managing-costs/Pages/financial-fitness-program.aspx"><span class="additional-background"><span class="menu-item-text">Financial Fitness Program</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/managing-costs/Pages/maximize-your-aid.aspx"><span class="additional-background"><span class="menu-item-text">Maximize Your Aid</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/managing-costs/Pages/payment-plans.aspx"><span class="additional-background"><span class="menu-item-text">Payment Plans</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/managing-costs/Pages/net-price-calculator.aspx"><span class="additional-background"><span class="menu-item-text">Net Price Calculator</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/managing-costs/Pages/repaying-student-loans.aspx"><span class="additional-background"><span class="menu-item-text">Repaying Your Student Loans</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/managing-costs/Pages/pub-serv-teach-loan-forgive.aspx"><span class="additional-background"><span class="menu-item-text">Public Service and Teacher Loan Forgiveness</span></span></a></li>
+					</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/maintaining-eligibility/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Maintaining Eligibility</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/maintaining-eligibility/Pages/return-of-title-iv-aid.aspx"><span class="additional-background"><span class="menu-item-text">Return of Title IV Aid</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/maintaining-eligibility/Pages/satisfactory-academic-progress-%28SAP%29.aspx"><span class="additional-background"><span class="menu-item-text">Satisfactory Academic Progress (SAP)</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/maintaining-eligibility/Pages/withdrawal-from-classes.aspx"><span class="additional-background"><span class="menu-item-text">Withdrawal From Classes</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/maintaining-eligibility/Pages/complying_terms_conditions.aspx"><span class="additional-background"><span class="menu-item-text">Complying with Terms and Conditions of Financial Aid</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/maintaining-eligibility/Pages/lifetime-limits-aggregate-maximums.aspx"><span class="additional-background"><span class="menu-item-text">Lifetime Limits and Aggregate Maximums for Financial Aid Programs</span></span></a></li>
+					</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/Pages/consumer-info.aspx"><span class="additional-background"><span class="menu-item-text">Consumer Information</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/for-parents/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">For Parents</span></span></a><ul style="display: none;" class="static">
+						<li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/for-parents/Pages/completing-the-award-process.aspx"><span class="additional-background"><span class="menu-item-text">Completing the Award Process</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/for-parents/Pages/receiving-funds.aspx"><span class="additional-background"><span class="menu-item-text">Receiving Funds</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/for-parents/Pages/your-student%27s-aid-application.aspx"><span class="additional-background"><span class="menu-item-text">Your Student's Aid Application</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/for-parents/Pages/net-price-calculator.aspx"><span class="additional-background"><span class="menu-item-text">Net Price Calculator</span></span></a></li>
+					</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/Pages/contact-us.aspx"><span class="additional-background"><span class="menu-item-text">Contact Us</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/financial-aid/Pages/news-and-alerts.aspx"><span class="additional-background"><span class="menu-item-text">News and Alerts</span></span></a></li>
+				</ul></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/test-credit-and-placement/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Test Credit and Placement</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/Pages/check-your-app-status.aspx"><span class="additional-background"><span class="menu-item-text">Check Application Status</span></span></a></li><li class="static"><a class="static menu-item" href="http://www.depaul.edu/admission-and-aid/admitted/Pages/default.aspx"><span class="additional-background"><span class="menu-item-text">Admitted Students</span></span></a></li>
+			</ul></li>
+		</ul>
+	</div>
+</div>
+												           
+												            	
+	
+							        </div>
+									<ul id="sub-nav">
+							  			<li id="nav-apply"><a href="http://www.depaul.edu/apply">Apply Online</a></li>
+							  			<li id="nav-info"><a href="http://www.depaul.edu/admission-and-aid/Pages/request-info.aspx">Request Info</a></li>
+							  			<li id="nav-visit"><a href="http://www.depaul.edu/about/visit-depaul/Pages/default.aspx">Visit Campus</a></li>
+									</ul>		
+								</div>
+							</div>
+						
+
+						<!-- The small menu attached Quick Launch bar. Used only on very specific pages -->
+						
+						
+				<!-- s4-ca is the main body div -->
+				<!--<div class="s4-ca" id="MSO_ContentTable">ORIG--> 
+				
+					
+		
+					<!-- page description -->
+				
+	
+
+
+	
+	
+				
+				
+	
+		
+					<!-- mso_contentdiv required, helps SharePoint put the web part editing pane in the main body on the right -->
+					<!--<div id="ctl00_MSO_ContentDiv">-->
+					
+			
+				
+<div class="s4-ca grid_14" id="page-content">
+	<div id="page-header">
+		<div id="breadcrumbs">
+			<span><span><a title="DePaul University" class="breadcrumbRootNode" href="http://www.depaul.edu/Pages/default.aspx">DePaul University</a></span><span> &gt; </span><span class="breadcrumbCurrentNode">Admission &amp; Aid</span></span>
+
+		</div>
+		<div id="ctl00_PlaceHolderMain_HeadingDisplayModePanel">
+	
+			<h1>
+			Admission and Aid 
+			</h1>
+		
+</div>
+	</div>					
+
+	<div id="page-body">
+
+				
+				
+				
+				
+				<div id="ctl00_PlaceHolderMain_MainPageContentHtmlField_label" style="display:none">Main Page Content</div><div id="ctl00_PlaceHolderMain_MainPageContentHtmlField__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_MainPageContentHtmlField_label"><div>Here
+ at DePaul, we believe that learning never ends. We enjoy a long 
+tradition of providing an unparalleled educational experience that is 
+accessible to all - regardless of age, religion, ethnic or socioeconomic
+ background.<br><br>
+<h2>Admission</h2>
+<div class="grid_13 callout" id="major-search"><span><div class="grid_6" id="left"><h2>Undergraduate</h2>
+<p>Important information for undergraduate applicants including critical dates and deadlines.</p>
+<ul><li><a href="http://www.depaul.edu/admission-and-aid/types-of-admission/freshman-student/Pages/default.aspx">Freshman Students</a></li>
+<li><a href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/transfer-student.aspx">Transfer Students</a></li>
+<li><a href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/adult-transfer-student.aspx">Adult Undergraduate Students</a></li>
+<li><a href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/international-student.aspx">International Students​</a></li></ul></div>
+<div class="grid_6" id="right"><h2>Graduate</h2>
+<p>Interested in a graduate education at DePaul University? Learn more about our graduate admission process.</p>
+<ul><li><a href="http://www.depaul.edu/admission-and-aid/types-of-admission/graduate-student/Pages/default.aspx">Graduate Admission by College​</a></li>
+<li><a href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/international-student.aspx">International Students</a></li></ul></div></span></div>
+<div>Additional admission information for <a href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/online-student.aspx">Online</a>, <a href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/non-degree-student.aspx">Non-Degree</a>, <a href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/veteran-student.aspx">Veteran</a>,&nbsp;<a href="http://www.depaul.edu/admission-and-aid/types-of-admission/Pages/returning-student.aspx">Readmitted</a> and <a href="http://www.learning.depaul.edu/standard/content_areas/continuity_application/default.asp">Continuing Education​</a> students can also be found in this section.</div>
+<div>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​</div></div>
+​​​​​​</div>	                           
+                <div id="ctl00_PlaceHolderMain_AdditionalPageContent1HtmlField_label" style="display:none">Additional Page Content 1</div><div id="ctl00_PlaceHolderMain_AdditionalPageContent1HtmlField__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_AdditionalPageContent1HtmlField_label"><h2>Tuition and Scholarships</h2>
+<div>DePaul University provides a world-class, yet affordable, 
+education.&nbsp;We believe the educational experience here enables 
+students to enjoy the long-term benefits of investing in themselves - 
+and in their future.&nbsp;Find out more about DePaul's <a href="http://www.depaul.edu/admission-and-aid/tuition/Pages/default.aspx">Tuition</a> and <a href="http://www.depaul.edu/admission-and-aid/tuition/Pages/room-board.aspx">Room and Board​</a>.</div>
+<div><br></div>
+<div>DePaul may award <a href="http://www.depaul.edu/admission-and-aid/Pages/scholarships.aspx">scholarships​</a>
+ to newly entering students who exhibit academic excellence, artistic 
+talent or strong leadership or service to their communities. &nbsp;Each 
+year, DePaul awards more than $24 million in scholarships. (Eligible 
+music and theatre applicants may be considered for academic as well as 
+talent scholarships.)</div>
+<div><br></div>
+<h2>Financial Aid</h2>
+<div>DePaul seeks to manage its resources effectively in order to 
+control the costs it charges students for&nbsp;programs and 
+services.&nbsp;Recent tuition increases have been held to between 5 and 7
+ percent, less than the majority of our peer 
+institutions.&nbsp;​Moreover, we offer a full range of <a href="http://www.depaul.edu/admission-and-aid/financial-aid/Pages/default.aspx">financial aid</a>&nbsp;opportunities to ensure access to a diverse population of students.&nbsp;</div>
+​​</div>				
+				
+
+
+               			
+		</div>
+</div>
+
+											
+				
+	<div id="page-right" class="grid_5 top-indent">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_de05db15_8908_4356_9bc8_5990e7336646" class="s4-wpcell-plain" valign="top"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="de05db15-8908-4356-9bc8-5990e7336646" haspers="false" id="WebPartctl00_SPWebPartManager1_g_de05db15_8908_4356_9bc8_5990e7336646" width="100%" class="ms-WPBody" allowdelete="false" allowexport="false" style=""><div id="ctl00_SPWebPartManager1_g_de05db15_8908_4356_9bc8_5990e7336646">
+					<!--?xml version="1.0" encoding="utf-16"?--><div id="statquote-wgt" class="textpanel03"><span><h5><div>Interested in becoming a DePaul student?</div></h5><hr><p><a href="https://wa.is.depaul.edu/AdmissionApp/login.aspx"> Apply Online</a></p></span></div>
+				</div></div></td>
+			</tr>
+		</tbody></table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_60277273_4a83_4993_80bb_199e36cee196" class="s4-wpcell-plain" valign="top"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="60277273-4a83-4993-80bb-199e36cee196" haspers="false" id="WebPartctl00_SPWebPartManager1_g_60277273_4a83_4993_80bb_199e36cee196" width="100%" class="ms-WPBody" allowdelete="false" allowexport="false" style=""><div id="ctl00_SPWebPartManager1_g_60277273_4a83_4993_80bb_199e36cee196">
+					<!--?xml version="1.0" encoding="utf-16"?--><div id="statquote-wgt" class="textpanel04"><span><h5><div class="ExternalClassCA9DAB70E8DA489BB94DC18F200B0FA4">Already applied for admission?</div></h5><hr><p><a href="http://www.depaul.edu/Pages/check-your-app-status.aspx"> Check Your Application Status</a></p></span></div>
+				</div></div></td>
+			</tr>
+		</tbody></table><div class="ms-PartSpacingVertical"></div></td>
+	</tr><tr>
+		<td id="MSOZoneCell_WebPartctl00_SPWebPartManager1_g_cd48d6c4_0112_42c6_88b7_414b3a465421" class="s4-wpcell-plain" valign="top"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr>
+				<td valign="top"><div webpartid="cd48d6c4-0112-42c6-88b7-414b3a465421" haspers="false" id="WebPartctl00_SPWebPartManager1_g_cd48d6c4_0112_42c6_88b7_414b3a465421" width="100%" class="ms-WPBody" allowdelete="false" allowexport="false" style=""><div id="ctl00_SPWebPartManager1_g_cd48d6c4_0112_42c6_88b7_414b3a465421">
+					<!--?xml version="1.0" encoding="utf-16"?--><div id="statquote-wgt" class="textpanel01"><img src="Admission%20and%20Aid%20_%20DePaul%20University_files/159lifedepaul_174x132.jpg" alt="" title="" height="120" width="168"><span><h5><div class="ExternalClassD72331F6C82B4E5FBED159BEDACDCC03"><div>What's it like to be a student here?</div>
+​</div></h5><hr><p><a href="http://www.depaul.edu/student-life/life-at-depaul/Pages/default.aspx"> Explore Life@DePaul</a></p></span></div>
+				</div></div></td>
+			</tr>
+		</tbody></table></td>
+	</tr>
+</tbody></table>
+	</div>
+									
+		
+		</div>
+		
+	</div>	
+    <div id="site-footer">
+		<!-- footer - this is purely optional -->
+			<div id="foot-container" class="s4-notdlg container_24" style="clear: both;">
+                <span id="ctl00_siteCollectionFooterControl"><div class="container_24"><div class="footer-socialicons-lg"><span><a href="http://www.facebook.com/DePaulUniversity" class="social-lg-facebook" title="Facebook">Facebook</a><a href="http://www.linkedin.com/company/depaul-university" class="social-lg-linkedin" title="LinkedIn">LinkedIn</a><a href="https://twitter.com/DePaulU" class="social-lg-twitter" title="Twitter">Twitter</a></span>&nbsp;</div>
+<div class="grid_4"><address></address>
+<h5><a href="http://www.depaul.edu/Pages/default.aspx">DePaul University​</a></h5>
+​​1 E. Jackson<br>Chicago, IL 60604<br>(312) 362-8000 <br>
+
+<a onclick="_gaq.push(['siloTracker._trackEvent', 'Internal Link - Contact Us- FooterLeft Footer', this.href])" class="visited-blue" href="http://www.depaul.edu/Pages/contact-us.aspx"><span class="dpu-analytics ms-hidden"><span class="dpu-analytics-method">gaq</span><span class="dpu-analytics-metadata">['siloTracker._trackEvent', 'Internal Link - Contact Us- FooterLeft Footer', this.href]</span></span>Contact Us</a> </div>
+
+
+
+
+
+<div class="grid_4"><h5><a href="http://www.depaul.edu/about/Pages/default.aspx">About</a></h5>
+<ul><li><a href="http://www.depaul.edu/about/Pages/rankings.aspx">Rankings​</a></li>
+<li><a href="http://www.depaul.edu/about/Pages/key-facts.aspx">Key Facts​</a></li>
+<li><a href="http://www.depaul.edu/about/campuses/Pages/default.aspx">Campuses</a></li>
+<li><a href="http://www.depaul.edu/about/visit-depaul/Pages/default.aspx">Visit DePaul</a></li>
+<li><a href="http://www.depaul.edu/about/Pages/chicago.aspx">Chicago</a></li>
+<li><a href="http://president.depaul.edu/">President</a></li>
+<li><a href="http://www.depaul.edu/about/administration/Pages/default.aspx">Administration</a></li>
+<li><a href="http://www.depaul.edu/about/history-and-timeline/Pages/default.aspx">History and Timeline</a></li>
+<li><a href="http://mission.depaul.edu/AboutUs/Pages/MissionStatement.aspx">Mission​​</a></li></ul></div>
+<div class="grid_4"><h5><a href="http://www.depaul.edu/academics/Pages/default.aspx">Academics</a></h5>
+<ul><li><a href="http://www.depaul.edu/academics/undergraduate/majors/Pages/default.aspx">Undergraduate</a></li>
+
+<li><a href="http://www.depaul.edu/academics/graduate/programs/Pages/default.aspx">Grad​uate​</a></li>
+
+<li><a onclick="_gaq.push(['siloTracker._trackEvent', 'External Link -Corporate-Bottom Footer', this.href])" href="http://resources.depaul.edu/corporate/Pages/default.aspx"><span class="dpu-analytics ms-hidden"><span class="dpu-analytics-method">gaq</span><span class="dpu-analytics-metadata">['siloTracker._trackEvent', 'External Link -Corporate-Bottom Footer', this.href]</span></span>Corporate</a></li>
+
+
+<li><a href="http://www.depaul.edu/academics/Pages/online-learning.aspx">Online Learning​</a></li>
+
+<li><a href="http://www.depaul.edu/academics/Pages/colleges-and-schools.aspx">Colleges &amp; Schools</a></li>
+<li><a href="http://www.depaul.edu/academics/research/Pages/default.aspx">Research</a></li>
+
+
+<li><a href="http://steans.depaul.edu/">Service Learning</a></li>
+<li><a href="http://www.depaul.edu/academics/Pages/success-after-depaul.aspx">Success After DePaul​</a></li>
+<li><a href="http://www.learning.depaul.edu/standard/content_areas/continuity_application/default.asp">Continuing Education</a></li></ul></div>
+<div class="grid_4"><h5><a href="http://www.depaul.edu/admission-and-aid/Pages/default.aspx
